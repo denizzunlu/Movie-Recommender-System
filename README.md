@@ -1,7 +1,10 @@
 # TR
 # 🎬 Film Öneri Sistemi 🎥
+![image](https://github.com/denizzunlu/Movie-Recommender-System/assets/123365405/0a15f3e9-0ebe-49c8-b4a9-abd82e8d71a8)
 
 TMDB API'sını kullanarak geliştirilen bu film öneri sistemi, kullanıcıların sevdikleri filmleri temel alarak benzer filmleri önerir. Streamlit kullanılarak oluşturulan kullanıcı dostu bir arayüz üzerinden, seçilen bir film hakkında detaylı bilgiler sunulur ve daha sonra benzer filmler otomatik olarak önerilir. Öneri algoritması, cosine similarity kullanılarak bir film seçildiğinde benzer filmleri belirler.
+
+### link: https://movie-recommender-system-cfqwipbrbe9qeynkxj5pu3.streamlit.app/
 
 ## Özellikler
 
